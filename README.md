@@ -1,4 +1,6 @@
-<h1 align="center">GPS do Bem</h1>
+<h1 align="center">
+    <img alt="GPSdoBem" title="#GPSdoBem" src="./styles/img/gps_do_bem.gif" />
+</h1>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
