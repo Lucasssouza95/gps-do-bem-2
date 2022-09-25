@@ -9,8 +9,7 @@
 <p align="center">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LeonardoBrizolla/gps-do-bem?style=flat-square">
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LeonardoBrizolla/gps-do-bem?style=flat-square">
-
-  	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LeonardoBrizolla/gps-do-bem">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LeonardoBrizolla/gps-do-bem">
 </p>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
