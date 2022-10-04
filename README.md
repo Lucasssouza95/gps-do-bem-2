@@ -9,7 +9,11 @@
 <p align="center">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LeonardoBrizolla/gps-do-bem?style=flat-square">
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LeonardoBrizolla/gps-do-bem?style=flat-square">
+<<<<<<< HEAD
   	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LeonardoBrizolla/gps-do-bem?style=flat-square">
+=======
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LeonardoBrizolla/gps-do-bem">
+>>>>>>> 61f740f27e9513b2033e3b09eaed055b15ac20cf
 </p>
 
 ## 💻 Sobre o projeto
