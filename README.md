@@ -43,6 +43,18 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Vercel][vercel]
 - [Chakra-Ui][chakraui]
 
+## 🔎 Fontes de Pesquisa
+
+As seguintes documentações foram utilizadas para o desemvolvimento do projeto:
+
+- [NextJs][nextjs]
+- [Vercel][vercel]
+- [Chakra-Ui][chakraui]
+- [TypeScript][typescript]
+- [Axios][axios]
+- [Next Auth][nextauth]
+- [Mongo DB][mongo]
+- [React JS][react]
 
 ## 🚀 Como executar o projeto
 
@@ -89,3 +101,7 @@ $ yarn dev
 [backend]: https://github.com/LeonardoBrizolla/gps-do-bem-back-end.git
 [frontend]: https://github.com/LeonardoBrizolla/gps-do-bem.git
 [vscode]: https://code.visualstudio.com/
+[axios]: https://axios-http.com/docs/intro
+[nextauth]: https://next-auth.js.org/
+[mongo]: https://www.mongodb.com/docs/
+[react]: https://reactjs.org/
