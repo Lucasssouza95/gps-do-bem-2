@@ -9,9 +9,33 @@
 <p align="center">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LeonardoBrizolla/gps-do-bem?style=flat-square">
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LeonardoBrizolla/gps-do-bem?style=flat-square">
-
-  	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LeonardoBrizolla/gps-do-bem">
+  	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LeonardoBrizolla/gps-do-bem?style=flat-square">
 </p>
+
+## 💻 Sobre o projeto
+
+🧭 Gps do Bem - é uma forma de conectar ONGs e entidades sociais as pessoas que tem o desejo de ajudar alguem, porem não sabem como ou onde fazer.
+
+As ONGs ou entidades poderão se cadastrar na plataforma web enviando:
+- uma imagem do ponto de doaçoes
+- nome da entidade, email, whatsapp, instagram, facebook
+- e o endereço para que ele possa aparecer no mapa
+- além de selecionar um ou mais ítens para doação: 
+  - Alimantos
+  - Roupas e Agasalhos
+  - Produtos de Higiene
+  - Livros e Brinquedos
+  - Cobertores
+  - óleo de cozinha
+
+Os usuários terão acesso a plataforma web, onde poderão:
+- navegar pelo mapa para ver as instituições cadastradas
+- entrar em contato com a entidade através do E-mail e redes sociais disponiveis
+- ONGs podem se cadastrar e divulgar seus serviços
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
