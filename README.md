@@ -33,7 +33,14 @@ Os usuários terão acesso a plataforma web, onde poderão:
 - entrar em contato com a entidade através do E-mail e redes sociais disponiveis
 - ONGs podem se cadastrar e divulgar seus serviços
 
+## 🛠 Tecnologias
 
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js][nodejs]
+- [TypeScript][typescript]
+- [NextJs][nextjs]
+- [Vercel][vercel]
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
